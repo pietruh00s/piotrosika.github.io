@@ -41,7 +41,7 @@ def main():
     d.text((x + w, 200), "/", font=big, fill=ACCENT)
     d.text((x, 310), "OSIKA", font=big, fill=TEXT)
     d.text((x, 452), "Shaders · VFX · Tools · Unity", font=font("Archivo.ttf", 34, 500, 100), fill=(213, 217, 222))
-    d.text((x, 540), "pietruh00s.github.io", font=font("JetBrainsMono.ttf", 22, 400), fill=ACCENT)
+    d.text((x, 540), "piotrosika.github.io", font=font("JetBrainsMono.ttf", 22, 400), fill=ACCENT)
 
     img.save(ROOT / "assets" / "og.jpg", "JPEG", quality=88, optimize=True, progressive=True)
 

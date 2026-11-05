@@ -38,7 +38,7 @@ What a neighbouring portfolio cannot claim: commercial real-time graphics work s
 
 - Reviewers read on desktop during hiring screens and on phones from LinkedIn/messaging links; both must work.
 - Links get shared on LinkedIn and messengers, so the link preview (og image/title/description) is part of the product.
-- The site is maintained by Piotr himself: project content lives in `tools/projects.src.json`, regenerated into `assets/js/data.js` by `tools/build_assets.py`; the link-preview image is rendered by `tools/make_og.py`. Hosted on GitHub Pages at https://pietruh00s.github.io (repo `pietruh00s/pietruh00s.github.io`, served from the repo root).
+- The site is maintained by Piotr himself: project content lives in `tools/projects.src.json`, regenerated into `assets/js/data.js` by `tools/build_assets.py`; the link-preview image is rendered by `tools/make_og.py`. Hosted on GitHub Pages at https://piotrosika.github.io (repo `piotrosika/piotrosika.github.io`, served from the repo root; GitHub account renamed from `pietruh00s` to `piotrosika`).
 - Content language: English.
 
 ## Capabilities and Constraints
